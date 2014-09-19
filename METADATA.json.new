@@ -1,0 +1,32 @@
+{
+  "name": "Bubbler One",
+  "designer": "Brenda Gallo",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 14978,
+  "fonts": [
+    {
+      "name": "Bubbler One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BubblerOne-Regular.ttf",
+      "postScriptName": "BubblerOne-Regular",
+      "fullName": "BubblerOne-Regular",
+      "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Bubbler\""
+    },
+    {
+      "name": "Bubbler One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BubblerOne-Regular-TTF.ttf",
+      "postScriptName": "BubblerOne",
+      "fullName": "BubblerOne-Regular",
+      "copyright": "Copyright (c) 2011 by Brenda Gallo (gbrenda1987@gmail.com), with Reserved Font Name \"Bubbler\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-05-09"
+}
